@@ -1,7 +1,7 @@
- 🛠️Planejamento e Controle de Produção
+ 🛠️ Planejamento e Controle de Produção
  
- ⚙️Estudando Python e Automação de Processos
+ ⚙️ Estudando Python e Automação de Processos
  
- 📊Interessada em Análise de Dados aplicados à produção
+ 📊 Interessada em Análise de Dados aplicados à produção
 
 
