@@ -1,4 +1,4 @@
- 🛠️ Planejamento e Controle de Produção
+ 👩🏼‍💻 Planejadora de Produção
  
  ⚙️ Estudando Python e Automação de Processos
  
